@@ -1,0 +1,9 @@
+age_range,60+,,age_range,46-60,,age_range,31-45,,age_range,18-30
+,,,,,,,,,,
+Row Labels,Count of last_step,,Row Labels,Count of last_step,,Row Labels,Count of last_step,,Row Labels,Count of last_step
+bounced,32.24%,,bounced,41.32%,,bounced,40.99%,,bounced,36.20%
+saw review,40.35%,,saw review,21.35%,,saw review,30.77%,,saw review,31.47%
+added to cart,5.02%,,added to cart,20.34%,,added to cart,16.20%,,added to cart,12.94%
+payment page,20.85%,,payment page,4.38%,,payment page,2.49%,,payment page,8.12%
+purchased,1.54%,,purchased,12.62%,,purchased,9.55%,,purchased,11.27%
+Grand Total,100.00%,,Grand Total,100.00%,,Grand Total,100.00%,,Grand Total,100.00%
